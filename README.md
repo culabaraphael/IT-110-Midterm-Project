@@ -7,8 +7,14 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project demonstrates API 
 
 ## 🖼 Project Preview
 
-### 🏠 Homepage
-![Weather Checker Homepage](screenshot.png)
+## 🖼 Project Preview
+
+### 🌐 Full Page Screenshot
+![Full Website Screenshot](Fullss.png)
+
+### ☁️ Weather App Screenshot
+![Weather Checker Screenshot](Weatherss.png)
+
 
 ### 🌐 Full Page View
 <img src="full-screenshot.png" alt="Full Website Screenshot" width="750">
