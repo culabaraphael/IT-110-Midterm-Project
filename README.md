@@ -16,9 +16,6 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project demonstrates API 
 ![Weather Checker Screenshot](Weatherss.png)
 
 
-### 🌐 Full Page View
-<img src="full-screenshot.png" alt="Full Website Screenshot" width="750">
-
 ---
 
 ## 🚀 Features
