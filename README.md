@@ -7,8 +7,6 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project demonstrates API 
 
 ## 🖼 Project Preview
 
-## 🖼 Project Preview
-
 ### 🌐 Full Page Screenshot
 ![Full Website Screenshot](Fullss.png)
 
